@@ -42,7 +42,7 @@ export default class AppsPopover extends Component {
                         style={{ ...Css.transverseC, color: '#595959', fontWeight: 'bold', padding: 0, margin: 0 }}
                         icon={
                             <Badge count={this.appsBadgeCount}>
-                                <img style={{ width: 30, height: 30, marginRight: 8, background: '#1890ff', borderRadius: 6, padding: 2 }} src='https://utilsbox.oss-cn-hangzhou.aliyuncs.com/apps-f.png' />
+                                <img style={{ width: 30, height: 30, marginRight: 8, background: '#1890ff', borderRadius: 6, padding: 2 }} src='https://flynn-public.oss-cn-hangzhou.aliyuncs.com/statics/images/utilsbox/apps-f.png' />
                             </Badge>
                         }>
                         {/* 工具箱 */}
